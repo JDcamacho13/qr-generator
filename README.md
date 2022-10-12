@@ -34,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [TailWind](https://tailwindcss.com/) - For styles
+- [Vercel Serverless Function](https://vercel.com/docs/concepts/functions/serverless-functions) - For API
 
 ## Author
 
